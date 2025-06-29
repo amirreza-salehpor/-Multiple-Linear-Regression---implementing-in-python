@@ -2,12 +2,16 @@
 
 # Example 1
 Use the attached dataset “HousePrice.csv” to predict the sale price of a house. Separate 30 % of the data (randomly) into a test dataset and leave the rest 70 % of the data into a train dataset. Then use the train dataset to build a linear regression model with the living area as your input variable. Report the accuracy of your model with the following indicators:
+
 •
 Mean absolute error for both train and test datasets
+
 •
 R2 score for both train and test datasets
+
 •
 Plots for both train and test datasets
+
 # Example 2
 
 Repeat the previous exercise, but add the following variables to your input variables:
